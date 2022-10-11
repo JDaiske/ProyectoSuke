@@ -1,2 +1,2 @@
 # ProyectoSuke
-Esto es un reposutorio de prueba.
+Esto es un repositorio de prueba.
